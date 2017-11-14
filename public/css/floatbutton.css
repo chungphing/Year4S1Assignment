@@ -1,0 +1,22 @@
+.float-button{
+    position: fixed;
+    bottom: 30px;
+    right: 10px;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    display: flex;
+    background-color: rgb(38, 186, 255);
+    align-content: center;
+
+}
+#show{
+    display: none;
+    margin-right: 70px;
+}
+.float-button i{
+    text-align: center;
+    flex: 1 2 auto;
+    align-self: center;
+    color: #ffffff;
+}

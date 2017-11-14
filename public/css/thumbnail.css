@@ -1,0 +1,20 @@
+.thumbnail-round img{
+    display: block;
+    border-radius: 100%;
+    max-width: 14rem;
+    align-self: center;
+    padding: 10px;
+    margin: 10px;
+}
+.thumbnail-round {
+    display: block;
+    flex: 1 2 auto;
+    align-self: center;
+    
+}
+
+.about-text {
+    display: block;
+    flex: 4 2 auto;
+    text-indent: 30px;
+}
